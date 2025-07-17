@@ -47,9 +47,8 @@ Welcome to my GitHub profile! I'm passionate about **Web Development**, **Compet
   <a href="https://www.linkedin.com/in/aayush-raulkar/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aayushraulkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+
+
 </p>
 
 ---
